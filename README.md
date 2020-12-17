@@ -5,7 +5,11 @@
 ![Stars](https://img.shields.io/github/stars/retzion/node-image-watermark)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-1. Install [GraphicMagick](http://www.graphicsmagick.org/) on your machine (or a buildpack on your server)
+[See the demo](https://node-watermark.herokuapp.com/sample) (<i>[view source](https://github.com/retzion/nodejs-watermark)</i>)
+
+### Using the moodule
+
+1. Install [GraphicsMagick](http://www.graphicsmagick.org/) on your machine (or a buildpack on your server)
 2. Install the NPM module<br />`npm i node-image-watermark`
 4. Import the module 
 ```
