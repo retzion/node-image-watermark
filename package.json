@@ -1,6 +1,6 @@
 {
   "name": "node-image-watermark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple solution for watermarking images with other images.",
   "main": "dist/node-image-watermark.cjs.js",
   "module": "dist/node-image-watermark.esm.js",
